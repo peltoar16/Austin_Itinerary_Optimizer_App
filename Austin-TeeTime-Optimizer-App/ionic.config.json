@@ -1,0 +1,7 @@
+{
+  "name": "Austin-TeeTime-Optimizer-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
